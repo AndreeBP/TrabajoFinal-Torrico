@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\TRABAJOFINAL\TRABAJOFINAL\obj\Debug\TRABAJOFINAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TRABAJOFINAL\TRABAJOFINAL\obj\Debug\TRABAJOFINAL.csproj.CoreCompileInputs.cache
